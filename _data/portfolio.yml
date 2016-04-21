@@ -1,10 +1,14 @@
 -   id: 1
-    title: My Project    
-    img: 1.jpg
+    title: iCheev
+    url: https://www.icheev.com
+    desc: Online interactive toolkit that helps users define there goals, generate ideas and colloaborate online.
+    img: icheev_3.jpg
     width: 8
     height: 2
 -   id: 2
-    title: Some other project I did 
-    img: 2.jpg
+    title: Thinkon
+    url: https://www.thinkonglobal.com
+    desc: Brochure site delivered via Wordpress.
+    img: thinkonlogo.png
     width: 4
     height: 2
