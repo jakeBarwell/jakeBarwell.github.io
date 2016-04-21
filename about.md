@@ -7,7 +7,7 @@ permalink: /about/
 
 <br/>
 
- My day to work has me developing utilising the LAMP stack in a local vagrant environment. My time is split between back end development and front end work. My back end work typically involves working with ZF1, Zf2 and more recently Slim3. On the front end I primarily work with DOJO js, but we are just starting a new AngularJs project.
+ My day to work has me developing utilising the LAMP stack in a local vagrant environment. My time is split between back end development and front end work. My back end work typically involves working with ZF1, ZF2 and more recently Slim3. On the front end I primarily work with DOJO JS, but we are just starting a new AngularJs project.
 
 <br/>
 
