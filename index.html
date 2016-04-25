@@ -26,11 +26,11 @@ layout: default
   <div class="col col-12">
     {% for port in site.data.portfolio %}
       <div class="col col-{{port.width}}">
-        <div class="block" style="background-image:url(assets/{{port.img}})">
+        <div class="block" style="background-image:url(assets/{{port.img}});background-size:cover;background-color:white">
             <div class="block-body height-{{port.height}}">
                 <h2 class="align-bottom-right">
                    <a class="black-text" href="{{ port.url }}">{{ port.title }}</a>
-                   <p class="black-text">{{port.desc}}</p>
+                   <p><a class="black-text" href="{{ port.url }}">{{port.desc}}</a></p>
                 </h2>
             </div>
         </div>
