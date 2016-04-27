@@ -10,6 +10,10 @@
     color: $white-color;
 }
 
+.white-text a, .post-content a {
+  color: $orange-color;
+}
+
 .black-text{
     color: $orange-color!important;
     font-weight: 900;
