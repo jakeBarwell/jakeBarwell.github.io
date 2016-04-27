@@ -9,11 +9,19 @@
     position: relative;
 }
 
+.hide-text {
+    text-indent: 100%;
+    white-space: nowrap;
+    overflow: hidden;
+}
+
 .title{
     padding: $spacing-unit * 3;
     float: left;
     background: $red-color;
 }
+
+
 
 .mypic{
     max-height: 200px;
@@ -121,6 +129,62 @@
 .social-media-list {
     list-style: none;
     margin-left: 0;
+    vertical-align: top;
+}
+
+.social{
+    float: left;
+}
+.social li {
+    float:left;
+    margin-right:10px;
+}
+.social-img{
+    float:left;
+    display:block;
+    height:32px;
+    width: 32px;
+}
+.twitter.social-img{
+    background:url(/assets/twitter-1-32.png) no-repeat center;
+    padding:3px 1px 1px 3px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+
+.twitter.social-img:hover {
+	background-color: #00aced;
+}
+
+.github.social-img{
+    background:url(/assets/github-1-32.png) no-repeat center;
+    padding:3px 1px 1px 3px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+
+.github.social-img:hover {
+    	background-color: #e25714;
+}
+
+.linkedin.social-img{
+    background:url(/assets/linkedin-1-32.png) no-repeat center;
+    padding:3px 1px 1px 3px;
+    -o-transition:.5s;
+    -ms-transition:.5s;
+    -moz-transition:.5s;
+    -webkit-transition:.5s;
+    transition: .5s;
+}
+
+.linkedin.social-img:hover {
+    	background-color: #0073a4;
 }
 
 /**
