@@ -3,7 +3,7 @@ layout: page
 title: About Me
 permalink: /about/
 ---
- I graduated from De Montfort University, gaining a 1st class degree with honours in Computer Security. Since then I have been working for ThinkOn helping to develop their digital offering [iCheev](https://www.iCheev.com) and on the companys public face [ThinkonGlobal](https://www.thinkonglobal.com).
+ I graduated from De Montfort University, gaining a 1st class degree with honours in Computer Security. Since then I have been working for ThinkOn helping to develop their digital offering and on the companys public face [ThinkonGlobal](http://www.thinkonglobal.com).
 
 <br/>
 
